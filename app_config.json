@@ -1,0 +1,6 @@
+{
+    "model_name": "mlx-community/whisper-base-mlx",
+    "record_duration": 20,
+    "slice_time_ms": 4000,
+    "output_filename": "output.wav"
+}
